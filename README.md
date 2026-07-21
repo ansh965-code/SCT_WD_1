@@ -65,31 +65,31 @@ SCT_WD_1/
 
 ### 🏠 Home Page
 
-![Home](screenshots/home.png)
+![Home](images/home.png)
 
 ---
 
 ### ℹ️ About Section
 
-![About](screenshots/about.png)
+![About](images/about.png)
 
 ---
 
 ### 💼 Services Section
 
-![Services](screenshots/services.png)
+![Services](images/services.png)
 
 ---
 
 ### 🖼️ Gallery Section
 
-![Gallery](screenshots/gallery.png)
+![Gallery](images/gallery.png)
 
 ---
 
 ### 📞 Contact Section
 
-![Contact](screenshots/contact.png)
+![Contact](images/contact.png)
 
 ---
 
