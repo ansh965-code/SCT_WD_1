@@ -106,7 +106,7 @@ ul{
 
 .about-image img{
     width:100%;
-    max-width: 300px;
+    max-width: 500px;
     display: block;
     border-radius:15px;
     box-shadow:0 5px 20px rgba(0,0,0,.2);
@@ -187,8 +187,8 @@ button:hover{
 }
 
 .gallery img{
-    width:320px;
-    height:220px;
+    width:500px;
+    height:400px;
     object-fit:cover;
     border-radius:15px;
     transition:.4s;
