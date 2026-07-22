@@ -129,6 +129,11 @@ This project was developed for:
 
 ---
 
+## 🌐 Live Demo
+
+https://ansh965-code.github.io/SCT_WD_1/
+---
+
 ## 👨‍💻 Author
 
 **Ansh Gupta**
